@@ -1,6 +1,7 @@
 # Reducing Commercial Aviation Fatalities
 
 <img src="./background.jpg" width="100%"/>
+<p style="font-size: 10px">Image grabbed from <a href="www.pexels.com">Pexels</a>.</p>
 
 Machine-learning project for reducing commercial aviation fatalities.
 
