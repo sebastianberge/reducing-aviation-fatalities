@@ -1,5 +1,7 @@
 # Reducing Commercial Aviation Fatalities
 
+<img src="./background.jpg" width="100%"/>
+
 Machine-learning project for reducing commercial aviation fatalities.
 
 ## Information
